@@ -1,0 +1,6 @@
+spacy
+torchtext
+scikit-learn
+matplotlib
+torch
+pandas
